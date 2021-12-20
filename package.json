@@ -1,0 +1,12 @@
+{
+  "name": "hello-rabbitmq",
+  "version": "1.0.0",
+  "description": "My introduction to the RabbitMq",
+  "main": "index.js",
+  "author": "Mateus Israel",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
